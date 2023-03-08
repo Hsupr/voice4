@@ -1,0 +1,51 @@
+body {
+    background-color: steelblue;
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 25px;
+}
+
+#name {
+    -webkit-text-fill-color: red;
+}
+
+#note {
+    text-align: center;
+}
+.header_div{
+font-family: 'roboto',sans-serif;
+color: dodgerblue;
+letter-spacing: 2px;
+font-size:12px ;
+font-weight: bold;
+}
+.main_div button{
+    font-family: 'roboto',sans-serif;
+    margin-top: 30px;
+    margin-top: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkturquoise;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px,5px,5px grey;
+}
+#animals{
+    position: fixed;
+    color: black;
+    top: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: royalblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px,5px,5px grey;
+}
